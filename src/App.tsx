@@ -5,7 +5,6 @@ import Gallery from './components/Gallery';
 import Timeline from './components/Timeline';
 import Compare from './components/Compare';
 import Conservation from './components/Conservation';
-import AIChat from './components/AIChat';
 import Footer from './components/Footer';
 
 export default function App() {
@@ -18,7 +17,6 @@ export default function App() {
       <Timeline />
       <Compare />
       <Conservation />
-      <AIChat />
       <Footer />
     </div>
   );

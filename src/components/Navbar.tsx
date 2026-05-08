@@ -37,7 +37,6 @@ export default function Navbar() {
             { name: "Timeline", href: "#timeline" },
             { name: "Science", href: "#science" },
             { name: "Conservation", href: "#conservation" },
-            { name: "AI AI", href: "#chat" },
           ].map((item) => (
             <a
               key={item.href}
